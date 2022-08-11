@@ -1,15 +1,15 @@
 # HashSet-Project
 ## Introduction
-I implement a simple hashset by LinkedList in JAVA. The user can implement adding (including rehashing process) and deleting elements to the hash set according to the instructions on the terminal.
+I implement a simple hashset by using LinkedList in JAVA. The user can implement adding (including rehashing process) and deleting elements to the HashSet according to the instructions on the terminal.
 
 ## Programming techniques used on this project
 JAVA Object-Oriented Programming, Hashing, LinkedList
 
 ## How to play with this project
-When users open the terminal, compile the java file, and then run the 'test'. They can type "ADD", "DELETE", "SHOW" OR "EXIT" to interact with the program.
+When users open the terminal, compile the java file, and then run the 'tester'. They can type "ADD", "DELETE", "SHOW" OR "EXIT" to interact with the program.
 
 ### Rehashing
-When a user adds a certain amount of data to the hash set, the hash set will rehash to reduce the time complexity of subsequent addition, deletion, search and other functions.
+When a user adds a certain amount of data to the HashSet, the HashSet will rehash to reduce the time complexity of subsequent addition, deletion, search and other functions.
 <img width="805" alt="Screen Shot 2022-08-11 at 2 53 48 AM" src="https://user-images.githubusercontent.com/79508325/184085282-9ef5665d-13f8-4d78-bed3-70f3085f338f.png">
 
 
