@@ -16,6 +16,22 @@ When a user adds a certain amount of data to the hash set, the hash set will reh
 ## How the project looks like(IMAGE):
 Instructions:
 
-<img width="1147" alt="Screen Shot 2022-08-11 at 3 41 31 AM" src="https://user-images.githubusercontent.com/79508325/184086511-4ceb63d4-65db-4ba2-82cd-07a30a4e749f.png">
+<img width="1140" alt="Screen Shot 2022-08-11 at 3 46 25 AM" src="https://user-images.githubusercontent.com/79508325/184087335-f8a88486-cd51-41cd-bcf5-b06050a3fb56.png">
 
-Adding:<img width="793" alt="Screen Shot 2022-08-11 at 3 42 41 AM" src="https://user-images.githubusercontent.com/79508325/184086708-7de73654-f2c0-456c-b8c9-9c7bd0ca5bb3.png">
+Addition:
+
+<img width="793" alt="Screen Shot 2022-08-11 at 3 42 41 AM" src="https://user-images.githubusercontent.com/79508325/184086708-7de73654-f2c0-456c-b8c9-9c7bd0ca5bb3.png">
+
+Deletion:
+
+<img width="455" alt="Screen Shot 2022-08-11 at 3 44 23 AM" src="https://user-images.githubusercontent.com/79508325/184087431-9eec9828-1c40-4c68-9a59-cf8dca278e17.png">
+
+Searching:
+
+<img width="427" alt="Screen Shot 2022-08-11 at 3 44 34 AM" src="https://user-images.githubusercontent.com/79508325/184087511-fe6b039b-b831-4c03-87c4-78c8185e7976.png">
+
+
+Exit:
+
+<img width="325" alt="Screen Shot 2022-08-11 at 3 44 52 AM" src="https://user-images.githubusercontent.com/79508325/184087540-32026e9b-1bee-46fa-893a-7b573a43264c.png">
+
